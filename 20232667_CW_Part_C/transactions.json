@@ -1,0 +1,20 @@
+{
+  "Groceries": 
+  {
+    "type": "expense", "transactions": 
+    [
+      {"amount": 10450.89, "date": "2015-04-21"},
+      {"amount": 23450.89, "date": "2014-09-28"},
+      {"amount": 450.89, "date": "2005-11-09"}
+    ]
+  },
+  "Salary": 
+  {
+    "type": "Income", "transactions": 
+    [
+      {"amount": 1220450.89, "date": "2023-04-21"},
+      {"amount": 2343450.89, "date": "2022-10-08"},
+      {"amount": 2234450.89, "date": "2021-11-09"}
+    ]
+  }
+}
